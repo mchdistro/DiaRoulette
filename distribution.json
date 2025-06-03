@@ -206,6 +206,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://github.com/mchdistro/DiaRoulette/raw/main/servers/DiaRoulette-1.20.1/files/servers.dat",
+            "MD5": "ab4aa1b907f53ae42197be6ceb5d17b5",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.5.1.zip",
           "name": "ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
