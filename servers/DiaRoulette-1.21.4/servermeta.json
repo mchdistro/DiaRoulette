@@ -2,10 +2,10 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/DiaRoulette/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "다이아 룰렛",
-    "description": "Minecraft 1.20.1 (Fabric v0.16.14)",
+    "name": "다이아룰렛",
+    "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
     "icon": "https://github.com/mchdistro/DiaRoulette/raw/main/server-icon.png",
-    "address": "hxxstella.co.kr",
+    "address": "mc.hxxstella.co.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -15,7 +15,7 @@
     "autoconnect": true
   },
   "fabric": {
-    "version": "0.16.14"
+    "version": "0.18.4"
   },
   "untrackedFiles": [
     {
